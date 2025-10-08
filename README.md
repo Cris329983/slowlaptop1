@@ -23,7 +23,7 @@ Note: This was done from my personal laptop which is not actually slow.<br />
 - Windows 11
 
 
-<h2> Steps</h2>                      
+<h2>Possible Fixes</h2>                      
 
 <p>
 <img width="990" height="557" alt="image" src="https://github.com/user-attachments/assets/f3969117-8c13-4f55-b6e1-86f8223c48e1" />
